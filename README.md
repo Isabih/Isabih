@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isabih
 - 👀 I’m interested in IoT and Embedded Systems (With C/C++, Python, Flask,FastAPI...(MQTT,HTTP,TLS,CAN)Websocket)) 
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently working on ECUs 
 - 💞️ I’m looking to collaborate on IoT Development With Software Integration
 - 📫 How to reach me ksabih33@gmail.com
 -
